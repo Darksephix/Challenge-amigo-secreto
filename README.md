@@ -55,10 +55,10 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 
-Nome: [Seu Nome]
+Nome: Adriano S f da Silva
 
-Email: [seu-email@exemplo.com]
+Email: noturno_xp@hotmail.com
 
-GitHub: [seu-usuario-github]
+GitHub: darksephix
 
 Divirta-se com o Amigo Secreto! 🎉
